@@ -6,7 +6,7 @@
 
 - 🎓 CS student passionate about building real-world applications
 - 🌱 Currently learning **JAVA** 
-- 🚀 Building a [Lost & Found app](https://github.com/iriask-A/Lost-Found) for KBTU campus
+- 🚀 Build a [Lost & Found app](https://github.com/iriask-A/Lost-Found) for KBTU campus
 - 🐱 Cat person
 
 ---
@@ -20,7 +20,6 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -32,15 +31,6 @@
 | [UniversitySystemProject](https://github.com/darigabeisenbay/UniversitySystemProject) | University management system | Java |
 | [CurrencyConverter](https://github.com/darigabeisenbay/CurrencyConverter) | Real-time currency converter | Java |
 | [Web-Dev](https://github.com/darigabeisenbay/Web-Dev) | Frontend projects & experiments | HTML/CSS |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=darigabeisenbay&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darigabeisenbay&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
 
 ---
 
