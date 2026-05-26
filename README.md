@@ -31,6 +31,7 @@
 | [UniversitySystemProject](https://github.com/darigabeisenbay/UniversitySystemProject) | University management system | Java |
 | [CurrencyConverter](https://github.com/darigabeisenbay/CurrencyConverter) | Real-time currency converter | Java |
 | [Web-Dev](https://github.com/darigabeisenbay/Web-Dev) | Frontend projects & experiments | HTML/CSS |
+| [WeatherBot](https://github.com/darigabeisenbay/WeatherBot.git) | Telegram Weather Bot | Python, Telegram Bot API | 
 
 ---
 
