@@ -34,6 +34,7 @@
 | [WeatherBot](https://github.com/darigabeisenbay/WeatherBot.git) | Telegram Weather Bot | Python, Telegram Bot API | 
 | [Ping-Pong game](https://github.com/darigabeisenbay/Ping-Pong.git) | Ping-Pong Game | Python, OpenCV, Google MediaPipe |
 | [Fruit-Ninja](https://github.com/darigabeisenbay/Fruit-Ninja-.git) | Fruit-Ninja Game | Java |
+| [Snake-Game](https://github.com/darigabeisenbay/SnakeGame.git) | Snake-Game | Java |
 
 ---
 
