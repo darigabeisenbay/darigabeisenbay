@@ -1,9 +1,14 @@
-# Hi, I'm Dariga 👋
+<div align="left">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dariga--beisenbay-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariga-beisenbay-650831403)
+[![Telegram](https://img.shields.io/badge/Telegram-@swnami__n-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/swnami_n)
+
+</div>
+
+# Hi, I'm Dariga 👋
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
 ### 💻 About me
-
 - 🎓 CS student passionate about building real-world applications
 - 🌱 Currently learning **JAVA** 
 - 🚀 Build a [Lost & Found app](https://github.com/iriask-A/Lost-Found) for KBTU campus
@@ -12,7 +17,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -24,7 +28,6 @@
 ---
 
 ### 📌 Featured Projects
-
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Lost-Found](https://github.com/iriask-A/Lost-Found) | Lost & Found web app for KBTU campus with JWT auth | TypeScript, Django, Angular |
@@ -39,5 +42,6 @@
 ---
 
 ### 📫 Contact
-
 [![GitHub](https://img.shields.io/badge/GitHub-darigabeisenbay-181717?style=flat&logo=github)](https://github.com/darigabeisenbay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dariga--beisenbay-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariga-beisenbay-650831403)
+[![Telegram](https://img.shields.io/badge/Telegram-@swnami__n-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/swnami_n)
