@@ -33,6 +33,7 @@
 | [Lost-Found](https://github.com/iriask-A/Lost-Found) | Lost & Found web app for KBTU campus with JWT auth | TypeScript, Django, Angular |
 | [UniversitySystemProject](https://github.com/darigabeisenbay/UniversitySystemProject) | University management system | Java |
 | [CurrencyConverter](https://github.com/darigabeisenbay/CurrencyConverter) | Real-time currency converter | Java |
+| [TaskManagementService](https://github.com/darigabeisenbay/TaskManagementService.git) | Task management REST API with async processing and PostgreSQL | Java, Spring Boot, PostgreSQL |
 | [Web-Dev](https://github.com/darigabeisenbay/Web-Dev) | Frontend projects & experiments | HTML/CSS |
 | [WeatherBot](https://github.com/darigabeisenbay/WeatherBot.git) | Telegram Weather Bot | Python, Telegram Bot API | 
 | [Ping-Pong game](https://github.com/darigabeisenbay/Ping-Pong.git) | Ping-Pong Game | Python, OpenCV, Google MediaPipe |
